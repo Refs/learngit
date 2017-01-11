@@ -8,3 +8,4 @@ Creating a hen banch is quick AND simple.
 Creating a hen banch is quick && simple.
 Creating a hen banch is quick *** simple.
 Creating a hen banch is quick ^^^ simple.
+Creating a hen banch is quick %%% simple.
